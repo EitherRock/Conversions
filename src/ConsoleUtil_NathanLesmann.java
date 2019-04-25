@@ -45,7 +45,6 @@ public final class ConsoleUtil_NathanLesmann
         }
         return scan.nextDouble();
     }
-
     /**
      * checks for negative numbers
      * @param prompt asks user for amount

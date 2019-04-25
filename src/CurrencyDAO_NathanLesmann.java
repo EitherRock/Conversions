@@ -54,7 +54,6 @@ public class CurrencyDAO_NathanLesmann {
                 list.addCurrencyInfo(this.parseCurrency(line));
             }
             return list;
-
         }
     }
 }
